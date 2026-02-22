@@ -28,29 +28,35 @@ if "current_word" not in st.session_state:
     st.session_state.current_word = random.choice(list(words.keys()))
 if "message" not in st.session_state:
     st.session_state.message = ""
-if "user_input" not in st.session_state:
-    st.session_state.user_input = ""
 
 # --- Show current word ---
 st.markdown(f"<div class='big-word'>{st.session_state.current_word}</div>", unsafe_allow_html=True)
 
-# --- Input field with default value binding ---
-st.session_state.user_input = st.text_input("Enter Bangla", value=st.session_state.user_input, key="user_input")
+# --- Input field ---
+user_input = st.text_input("Enter Bangla", key="user_input")
 
-# --- Button container using columns for center alignment ---
+# --- Functions ---
+def check_word():
+    correct = words[st.session_state.current_word]
+    if user_input.strip() == correct:
+        st.session_state.message = "সঠিক ✅"
+    else:
+        st.session_state.message = f"ভুল ❌ | সঠিক: {correct}"
+
+def next_word():
+    st.session_state.current_word = random.choice(list(words.keys()))
+    st.session_state.message = ""
+    # Clear input field safely using experimental_rerun
+    st.session_state.user_input = ""
+    st.experimental_rerun()  # Force rerun to reset input
+
+# --- Buttons side by side ---
 col1, col2, col3 = st.columns([1,2,1])
 with col2:
     if st.button("Check"):
-        correct = words[st.session_state.current_word]
-        if st.session_state.user_input.strip() == correct:
-            st.session_state.message = "সঠিক ✅"
-        else:
-            st.session_state.message = f"ভুল ❌ | সঠিক: {correct}"
-
+        check_word()
     if st.button("Next Word"):
-        st.session_state.current_word = random.choice(list(words.keys()))
-        st.session_state.user_input = ""   # Clear input field safely
-        st.session_state.message = ""      # Clear previous result
+        next_word()
 
 # --- Show result ---
 st.markdown(f"<div class='result'>{st.session_state.message}</div>", unsafe_allow_html=True)
