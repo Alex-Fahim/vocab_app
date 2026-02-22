@@ -1,0 +1,141 @@
+
+Abandon,ত্যাগ করা
+Ability,ক্ষমতা
+Able,ক্ষম
+About,সম্পর্কে
+Above,উপর
+Abroad,বিদেশে
+Absolute,সম্পূর্ণ
+Absolutely,সম্পূর্ণভাবে
+Acceptable,গ্রহণযোগ্য
+Accompany,সঙ্গে যাওয়া
+According to,অনুযায়ী
+Accurate,সঠিক
+Accuse,অভিযুক্ত করা
+Achieve,অর্জন করা
+Acquire,অর্জন করা
+Acknowledge,স্বীকার করা
+Admit,স্বীকার করা
+Across,পাশে
+Act,কর্ম করা
+Actual,প্রকৃত
+Actually,বাস্তবে
+Adapt,অভিযোজিত করা
+Addition,সংযোজন
+Additional,অতিরিক্ত
+Admire,প্রশংসা করা
+Advance,অগ্রসর হওয়া
+Advanced,উন্নত
+Advantage,সুবিধা
+Affair,ঘটনা
+Affect,প্রভাব ফেলা
+Afterward,পরে
+Ahead,সামনে
+Aid,সাহায্য
+Almost,প্রায়
+Along,বরাবর
+Alter,পরিবর্তন করা
+Alternative,বিকল্প
+Although,যদিও
+Amazed,আশ্চর্য
+Amazing,চমকপ্রদ
+Ambition,উচ্চাকাঙ্ক্ষা
+Among,মধ্যবর্তী
+Ancient,প্রাচীন
+Anger,রাগ
+Annoy,বিরক্ত করা
+Anxious,উদ্বিগ্ন
+Any,যেকোনো
+Anymore,আর
+Anything,কিছু
+Anyway,যাই হোক
+Anywhere,যেখানে খুশি
+Apart,আলাদা করা
+Apologize,ক্ষমা চাওয়া
+Apparent,আপাত
+Apparently,দৃশ্যত
+Appear,উপস্থিত হওয়া
+Appearance,চেহারা
+Appreciate,প্রশংসা করা
+Approach,পদ্ধতি
+Appropriate,উপযুক্ত
+Approximately,প্রায়
+Argue,তর্ক করা
+Argument,যুক্তি
+Arise,উঠা
+Around,চারপাশে
+Arrange,বিন্যস্ত করা
+Arrival,আগমন
+Arrive,পৌঁছানো
+As,হিসাবে
+Ashamed,লজ্জিত
+Aside,একপাশে
+Aspect,দৃষ্টিভঙ্গি
+Perspective,দৃষ্টিকোণ
+Assess,মূল্যায়ন করা
+Associated,সংযুক্ত
+Association,সমিতি
+Assume,অনুমান করা
+Atmosphere,পরিবেশ
+Attempt,প্রচেষ্টা
+Attitude,মনোভাব
+Average,গড়
+Aware,সচেতন
+Awful,ভয়ঙ্কর
+terrible,ভয়ঙ্কর
+Barrier,বাধা
+Basically,মূলত
+Become,হওয়া
+Brave,সাহসী
+Begin,শুরু
+Behave,আচরণ
+Behind,পিছনে
+Being,হচ্ছে
+Belief,বিশ্বাস
+Believe,বিশ্বাস করা
+Belong,অন্তর্গত
+Below,
+Bend,বাঁক
+Benefit,সুবিধা
+Bent,বাঁকানো
+Between,মধ্যে
+Beyond,অতিক্রম
+Bitter,তিক্ত
+Blame,দোষারোপ
+Blow,ঘা
+Board,তক্তা
+Boil,ফোঁড়া
+Bond,বন্ধন
+Boring,বিরক্তিকর
+Borrow,ধার করা
+Breath,শ্বাস
+Breathe,শ্বাস ফেলা
+Bride,নববধূ
+Brief,সংক্ষিপ্ত
+Bring,আনা
+Bunch,গুচ্ছ
+Bury,কবর দেওয়া
+Bush,গুল্ম
+Calm,শান্ত
+Capable,ক্ষম
+Careless,অসাবধান
+Cause,কারণ
+Cell,কোষ
+Cent,শতকরা
+Century,শতাব্দী
+Ceremony,অনুষ্ঠান
+Certain,নিশ্চিত
+Certainly,অবশ্যই
+Characteristic,বৈশিষ্ট্যপূর্ণ
+Cheerful,প্রফুল্ল
+Circumstance,পরিস্থিতি
+Cite,
+Clause,ধারা
+Clerk,মুহুরি
+Closely,ঘনিষ্ঠভাবে
+Closet,পায়খানা
+Coal,কয়লা
+Coast,উপকূল
+Collapse,পতন
+Colored,রঙিন
+Complicated,জটিল
