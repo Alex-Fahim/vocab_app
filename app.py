@@ -3,7 +3,7 @@ import random
 
 st.set_page_config(page_title="Vocabulary Practice", page_icon="📝", layout="centered")
 
-# --- CSS ---
+# CSS
 st.markdown("""
 <style>
 body { background-color: black; }
@@ -15,7 +15,7 @@ body { background-color: black; }
 
 st.markdown("<h1 style='text-align: center; color: white;'>Vocabulary Practice</h1>", unsafe_allow_html=True)
 
-# --- Load words ---
+# Load words
 words = {}
 with open("words.txt", "r", encoding="utf-8") as f:
     for line in f:
@@ -23,7 +23,7 @@ with open("words.txt", "r", encoding="utf-8") as f:
             eng, bn = line.strip().split(",", 1)
             words[eng.strip()] = bn.strip()
 
-# --- Session state initialization ---
+# Session state initialization
 if "current_word" not in st.session_state:
     st.session_state.current_word = random.choice(list(words.keys()))
 if "message" not in st.session_state:
@@ -31,32 +31,26 @@ if "message" not in st.session_state:
 if "user_input" not in st.session_state:
     st.session_state.user_input = ""
 
-# --- Functions ---
-def check_word():
-    correct = words[st.session_state.current_word]
-    if st.session_state.user_input.strip() == correct:
-        st.session_state.message = "সঠিক ✅"
-    else:
-        st.session_state.message = f"ভুল ❌ | সঠিক: {correct}"
-
-def next_word():
-    st.session_state.current_word = random.choice(list(words.keys()))
-    st.session_state.user_input = ""   # Clear input field
-    st.session_state.message = ""      # Clear previous result
-
 # --- Show current word ---
 st.markdown(f"<div class='big-word'>{st.session_state.current_word}</div>", unsafe_allow_html=True)
 
-# --- Input field ---
-st.text_input("Enter Bangla", key="user_input")
+# --- Input field with default value binding ---
+st.session_state.user_input = st.text_input("Enter Bangla", value=st.session_state.user_input, key="user_input")
 
-# --- Buttons side by side ---
+# --- Button container using columns for center alignment ---
 col1, col2, col3 = st.columns([1,2,1])
 with col2:
     if st.button("Check"):
-        check_word()
+        correct = words[st.session_state.current_word]
+        if st.session_state.user_input.strip() == correct:
+            st.session_state.message = "সঠিক ✅"
+        else:
+            st.session_state.message = f"ভুল ❌ | সঠিক: {correct}"
+
     if st.button("Next Word"):
-        next_word()
+        st.session_state.current_word = random.choice(list(words.keys()))
+        st.session_state.user_input = ""   # Clear input field safely
+        st.session_state.message = ""      # Clear previous result
 
 # --- Show result ---
 st.markdown(f"<div class='result'>{st.session_state.message}</div>", unsafe_allow_html=True)
