@@ -139,3 +139,2018 @@ Coast,উপকূল
 Collapse,পতন
 Colored,রঙিন
 Complicated,জটিল
+Concentrate, মনোনিবেশ
+Concentration, একাগ্রতা
+Concept, ধারণা
+Concern, উদ্বেগ
+Could, পারে
+Council, পরিষদ
+Countryside, গ্রামাঞ্চল
+Concerned, উদ্বিগ্ন
+Conclude, উপসংহার
+Conclusion, উপসংহার
+Condition, অবস্থা
+Conduct, আচার
+Conference, সম্মেলন
+Confirm, নিশ্চিত করুন
+Conflict, সংঘর্ষ
+Conscious, সচেতন
+Consequence, পরিণতি
+Conservative, রক্ষণশীল
+Consider, বিবেচনা
+Consist, গঠিত
+Consistent, সামঞ্জস্যপূর্ণ
+Constant, ধ্রুবক
+Constantly, ক্রমাগত
+Construct, নির্মাণ
+Consume, গ্রাস করা
+Contain, ধারণ
+Contemporary, সমসাময়িক
+Content, বিষয়বস্তু
+Context, প্রসঙ্গ
+Continent, মহাদেশ
+Continuous, একটানা
+Contrast, বিপরীত
+Contribute, অবদান
+Convenient, সুবিধাজনক
+Convince, বোঝানো
+Convinced, বিশ্বাসী
+Core, মূল
+Cost, খরচ
+Courage, সাহস
+Course, অবশ্যই
+Crazy, পাগল
+Creature, জীব
+Crisis, সংকট
+Criterion, মানদণ্ড
+Critic, সমালোচক
+Critical, সমালোচনামূলক
+Criticism, সমালোচনা
+Criticize, সমালোচনা করা
+Crop, ফসল
+Crucial, গুরুত্বপূর্ণ
+Cruel, নিষ্ঠুর
+Cupboard, আলমারি
+Cure, নিরাময়
+Curly, কোঁকড়া
+Curtain, পর্দা
+Debt, ঋণ
+Decade, দশক
+Decent, শালীন
+Decline, হ্রাস
+Defeat, পরাজয়
+Defend, রক্ষা
+Define, সংজ্ঞায়িত করা
+Definite, নির্দিষ্ট
+Definitely, নিশ্চিতভাবে
+Delay, বিলম্ব
+Deliberate, ইচ্ছাকৃত
+Deliberately, ইচ্ছাকৃতভাবে
+Deliver, বিতরণ
+Demonstrate, প্রদর্শন
+Deny, অস্বীকার
+Departure, প্রস্থান
+Depend, নির্ভরশীল
+Depressed, বিষণ্ণ
+Depressing, হতাশাজনক
+Depth, গভীরতা
+Describe, বর্ণনা
+Description, বর্ণনা
+Deserve, প্রাপ্য
+Desire, ইচ্ছা
+Desperate, মরিয়া
+Despite, সত্ত্বেও
+Destination, গন্তব্য
+Detect, সনাক্ত করা
+Determine, নির্ধারণ
+Determined, নির্ধারিত
+Die, মারা যাওয়া
+Difference, পার্থক্য
+Different, ভিন্ন
+Difficult, কঠিন
+Difficulty, অসুবিধা
+Dig, খনন করা
+Disadvantage, অসুবিধা
+Disagree,অসম্মত
+Disappear,অদৃশ্য হওয়া
+Disappointed, হতাশ
+Discuss,আলোচনা
+Disease,রোগ
+Dismiss,বরখাস্ত করা
+Distribution,বিতরণ
+Doubt,সন্দেহ
+Stairs,সিঁড়ি
+Downtown,শহরের কেন্দ্রস্থল
+Downward, নিম্নগামী
+Dozen, ডজন
+Drag, টানুন
+Dramatic, নাটকীয়
+Dressed,পরিহিত
+Due, প্রাপ্য / নির্ধারিত
+During, সময়ে
+Dust, ধুলো
+Each, প্রত্যেক
+Early, আগেভাগে
+East, পূর্ব
+Eastern, পূর্বাঞ্চলীয়
+Edge, প্রান্ত / ধার
+Effect, প্রভাব
+Effective, কার্যকর
+Effectively, কার্যকরভাবে
+Efficient, দক্ষ
+Effort, চেষ্টা
+Either, যেকোনো এক / উভয়ের একটি
+Elderly, বয়স্ক
+Elect, নির্বাচন করা
+Element, উপাদান
+Else, অন্য
+Elsewhere, অন্য কোথাও
+Embarrassed, লজ্জিত
+Embarrassing, লজ্জাজনক
+Emerge, প্রকাশ পাওয়া
+Emotion, অনুভূতি
+Emotional, আবেগপ্রবণ
+Emphasis, গুরুত্ব
+Emphasize, গুরুত্ব দেওয়া
+Employ, নিয়োগ করা
+Employee, কর্মচারী
+Employer, নিয়োগকর্তা
+Employment, চাকরি
+Empty, খালি
+Enable, সক্ষম করা
+Encounter, সম্মুখীন হওয়া
+Encourage, উৎসাহ দেওয়া
+Engage, যুক্ত হওয়া
+Engaged, নিয়োজিত / বাগদান সম্পন্ন
+Enhance, উন্নত করা
+Enormous, বিশাল
+Enough, যথেষ্ট
+Ensure, নিশ্চিত করা
+Enthusiasm, উদ্দীপনা
+Stimulation, উদ্দীপনা
+Enthusiastic, উদ্দীপ্ত
+Entire, সম্পূর্ণ
+Entirely, পুরোপুরি
+Entrance, প্রবেশদ্বার
+Environmental, পরিবেশগত
+Equal, সমান
+Equally, সমানভাবে
+Escape, পালানো
+Especially, বিশেষ করে
+Essay, প্রবন্ধ
+Essential, অত্যাবশ্যক
+Establish, প্রতিষ্ঠা করা
+Estate, সম্পত্তি
+Estimate, আনুমানিক হিসাব
+Ethical, নৈতিক
+Evaluate, মূল্যায়ন করা
+Even, এমনকি / সমান
+Event, ঘটনা
+Eventually, শেষ পর্যন্ত
+Ever, কখনো
+Every, প্রত্যেক
+Everybody, সবাই
+Everyday, দৈনন্দিন
+Everyone, সবাই
+Everything, সবকিছু
+Everywhere, সর্বত্র
+Evidence, প্রমাণ
+Exact, সঠিক
+Exactly, ঠিকভাবে
+Examine, পরীক্ষা করা
+Example, উদাহরণ
+Excellent, চমৎকার
+Except, ছাড়া
+Exchange, বিনিময়
+Excited, উত্তেজিত / আনন্দিত
+Excitement, উত্তেজনা
+Exciting, রোমাঞ্চকর
+Excuse, অজুহাত / ক্ষমা করা
+Executive, নির্বাহী
+Exhibit, প্রদর্শন করা
+Exhibition, প্রদর্শনী
+Exist, অস্তিত্ব থাকা
+Existence, অস্তিত্ব
+Expand, প্রসারিত করা
+Expect, আশা করা
+Expectation, প্রত্যাশা
+Expected, প্রত্যাশিত
+Expense, খরচ
+Expensive, ব্যয়বহুল
+Experience, অভিজ্ঞতা
+Experienced, অভিজ্ঞ
+Experiment, পরীক্ষা
+Expert, বিশেষজ্ঞ
+Explain, ব্যাখ্যা করা
+Explanation, ব্যাখ্যা
+Explode, বিস্ফোরিত হওয়া
+Exploration, অনুসন্ধান
+Explore, অনুসন্ধান করা
+Explosion, বিস্ফোরণ
+Expose, প্রকাশ করা
+Express, প্রকাশ করা
+Expression, অভিব্যক্তি
+Extend, প্রসারিত করা
+Extent, পরিমাণ / ব্যাপ্তি
+External, বাহ্যিক
+Extra, অতিরিক্ত
+Extraordinary, অসাধারণ
+Extreme, চরম
+Extremely, অত্যন্ত
+Facility, সুবিধা
+Fact, সত্য
+Factor, উপাদান / কারণ
+Fail, ব্যর্থ হওয়া
+Failure, ব্যর্থতা
+Fair, ন্যায্য / মেলা
+Fairly, মোটামুটি
+Faith, বিশ্বাস
+Fall, পড়ে যাওয়া / শরৎকাল
+False, মিথ্যা
+Familiar, পরিচিত
+Fancy, শৌখিন / কল্পনা করা
+Fantastic, দারুণ
+Far, দূরে
+Fascinating, মোহনীয়
+Fasten, আটকানো
+Fault, দোষ
+Favor, অনুগ্রহ
+Fear, ভয়
+Feather, পালক
+Feature, বৈশিষ্ট্য
+Federal, ফেডারেল / কেন্দ্রীয়
+Feedback, প্রতিক্রিয়া
+Fellow, সহকর্মী / ব্যক্তি
+Fence, বেড়া
+Festival, উৎসব
+Fever, জ্বর
+Few, অল্প
+Fiction, কল্পকাহিনি
+Field, ক্ষেত্র / মাঠ
+Figure, চিত্র / সংখ্যা
+Finally, অবশেষে
+Finance, অর্থব্যবস্থা
+Financial, আর্থিক
+Find, খুঁজে পাওয়া
+Finding, আবিষ্কার
+Fine, ভালো / জরিমানা
+Firm, দৃঢ় / প্রতিষ্ঠান
+Fit, মানানসই / সুস্থ
+Fixed, নির্দিষ্ট / স্থির
+Flame, শিখা
+Flash, ঝলক
+Flat, সমতল / ফ্ল্যাট
+Float, ভাসা
+Flood, বন্যা
+Floor, মেঝে
+Flour, ময়দা
+Focus, মনোযোগ
+Fold, ভাঁজ করা
+Folding, ভাঁজযোগ্য
+Folk, লোকজন
+Following, পরবর্তী
+For, জন্য
+Force, শক্তি / জোর করা
+Foreign, বিদেশি
+Forest, বন
+Forever, চিরকাল
+Forget, ভুলে যাওয়া
+Forgive, ক্ষমা করা
+Fork, কাঁটা চামচ
+Form, রূপ / ফর্ম
+Formal, আনুষ্ঠানিক
+Give, দেওয়া
+Former, পূর্ববর্তী
+Glad, খুশি
+Fortunately, সৌভাগ্যবশত
+Fortune, সৌভাগ্য / সম্পদ
+Forward, সামনে / অগ্রসর
+Found, প্রতিষ্ঠা করা / পাওয়া গেছে
+Frequency, ঘনত্ব / বারংবারতা
+Glove, দস্তানা
+Goal, লক্ষ্য
+Goods, পণ্য
+Govern, শাসন করা
+Frequently, প্রায়ই
+Grab, হঠাৎ ধরে নেওয়া
+Grade, মান / শ্রেণি
+Frighten, ভয় দেখানো
+Frightened, ভীত
+Frightening, ভয়ঙ্কর
+From, থেকে
+Front, সামনে
+Fuel, জ্বালানি
+Fully, সম্পূর্ণভাবে
+Function, কার্য / কাজ করা
+Fundamental, মৌলিক
+Funding, অর্থায়ন
+Fur, পশম
+Further, আরও দূরে / অতিরিক্ত
+Furthermore, তদুপরি
+Gain, অর্জন করা
+Garbage, আবর্জনা
+Gate, ফটক
+Gather, জড়ো করা
+General, সাধারণ / জেনারেল
+Generally, সাধারণত
+Generate, উৎপন্ন করা
+Generation, প্রজন্ম
+Generous, উদার
+Genre, ধরণ / শৈলী
+Gentle, কোমল
+Get, পাওয়া
+Gradually, ধীরে ধীরে
+Grain, শস্য
+Grand, মহৎ / বড়
+Grant, মঞ্জুর করা
+Grass, ঘাস
+Grateful, কৃতজ্ঞ
+Greet, অভিবাদন করা
+Grocery, মুদি পণ্য
+Ground, মাটি / ভূমি
+Grow, বেড়ে ওঠা
+Growth, বৃদ্ধি
+Guarantee, গ্যারান্টি / নিশ্চয়তা দেওয়া
+Guard, প্রহরী / পাহারা দেওয়া
+Guess, অনুমান করা
+Guest, অতিথি
+Guide, পথপ্রদর্শক / নির্দেশনা দেওয়া
+Guilty, দোষী
+Guy, লোক / ছেলে
+Habit, অভ্যাস
+Hang, ঝুলানো
+Happen, ঘটানো
+Happily, আনন্দের সাথে
+Hardly, কদাচিৎ
+Harm, ক্ষতি
+Harmful, ক্ষতিকর
+Hate, ঘৃণা করা
+Have, থাকা / পাওয়া
+Have to, বাধ্য হওয়া
+Headache, মাথাব্যথা
+Headline, শিরোনাম
+Hear, শোনা
+Hearing, শ্রবণ / শুনানি
+Heat, তাপ
+Heating, গরম করা
+Heaven, স্বর্গ
+Heavily, ভারীভাবে
+Heavy, ভারী
+Heel, গোড়ালি
+Hell, নরক
+Helpful, সহায়ক
+Her, তার 
+Here, এখানে
+Hers, তারটি
+Hesitate, দ্বিধা করা
+Highlight, গুরুত্ব দেওয়া / উজ্জ্বল অংশ
+Highly, অত্যন্ত
+Him, তাকে
+Historic, ঐতিহাসিক (গুরুত্বপূর্ণ)
+Hobby, শখ
+Hold, ধরা / ধারণ করা
+Hollow, ফাঁপা
+Holy, পবিত্র
+Honor, সম্মান
+Hope, আশা
+Horrible, ভয়াবহ
+Host, আতিথেয় / আয়োজক
+Household, গৃহস্থালি
+Housing, বাসস্থান
+However, তবে / তবেো
+Huge, বিশাল
+Humor, রসিকতা
+Humorous, হাস্যকর
+Hungry, ক্ষুধার্ত
+Hurricane, ঘূর্ণিঝড়
+Hurry, তাড়া
+Hurt, আঘাত পাওয়া / ব্যথা দেওয়া
+Ideal, আদর্শ
+Identify, সনাক্ত করা
+If, যদি
+Ignore, উপেক্ষা করা
+Ill, অসুস্থ
+Illness, অসুস্থতা
+Illustration, চিত্র / ব্যাখ্যামূলক ছবি
+Imaginary, কাল্পনিক
+Imagination, কল্পনা
+Imagine, কল্পনা করা
+Immediate, তাৎক্ষণিক
+Immediately, সঙ্গে সঙ্গে
+Immigrant, অভিবাসী
+Impact, প্রভাব
+Impatient, অধৈর্য
+Imply, ইঙ্গিত করা
+Importance, গুরুত্ব
+Impose, আরোপ করা
+Impossible, অসম্ভব
+Impress, মুগ্ধ করা
+Impression, ধারণা
+Impressive, চিত্তাকর্ষক
+Improvement, উন্নতি
+Incident, ঘটনা
+Include, অন্তর্ভুক্ত করা
+Including, সহ
+Income, আয়
+Increase, বৃদ্ধি / বাড়ানো
+Increasingly, ক্রমশ
+Incredible, অবিশ্বাস্য
+Incredibly, অবিশ্বাস্যভাবে
+Indeed, প্রকৃতপক্ষে
+Indicate, নির্দেশ করা
+Indirect, পরোক্ষ
+Individual, ব্যক্তি / স্বতন্ত্র
+Indoor, ঘরের ভিতরের
+Infection, সংক্রমণ
+Influence, প্রভাব / প্রভাবিত করা
+Inform, জানানো
+Informal, অনানুষ্ঠানিক
+Initial, প্রাথমিক
+Initially, প্রাথমিকভাবে
+Initiative, উদ্যোগ
+Injure, আঘাত করা
+Injured, আহত
+Injury, আঘাত
+Inner, অভ্যন্তরীণ
+Innocent, নির্দোষ
+Inquiry, অনুসন্ধান
+Insect, পোকামাকড়
+Inside, ভিতরে
+Insight, অন্তর্দৃষ্টি
+Insist, জোর দেওয়া
+Inspire, অনুপ্রাণিত করা
+Install, স্থাপন করা
+Instance, উদাহরণ
+Instead, পরিবর্তে
+Institute, প্রতিষ্ঠান / প্রবর্তন করা
+Institution, প্রতিষ্ঠান
+Instruction, নির্দেশনা
+Instructor, প্রশিক্ষক
+Instrument, যন্ত্র
+Insurance, বীমা
+Intelligence, বুদ্ধিমত্তা
+Intelligent, বুদ্ধিমান
+Journey, ভ্রমণ
+Joy, আনন্দ
+Judge, বিচারক / বিচার করা
+Judgment, রায় / বিচার
+Juice, রস
+July, জুলাই
+Jump, লাফ দেওয়া
+June, জুন
+Junior, জুনিয়র / কনিষ্ঠ
+Just, শুধু / ন্যায়সঙ্গত
+Justice, ন্যায়বিচার
+Justify, ন্যায্যতা প্রমাণ করা
+Keep, রাখা
+Key, চাবি / মূল
+Keyboard, কীবোর্ড
+Kick, লাথি মারা
+Kid, শিশু
+Kill, হত্যা করা
+Killing, হত্যা
+Kilometer, কিলোমিটার
+Kind, দয়ালু / প্রকার
+King, রাজা
+Kiss, চুম্বন
+Kitchen, রান্নাঘর
+Knee, হাঁটু
+Intend, উদ্দেশ্য করা
+Intended, উদ্দেশ্যপ্রণোদিত
+Knife, ছুরি
+Intense, তীব্র
+Intention, উদ্দেশ্য
+Interest, আগ্রহ / সুদ
+Interested, আগ্রহী
+Interesting, আকর্ষণীয়
+Internal, অভ্যন্তরীণ
+International, আন্তর্জাতিক
+Internet, ইন্টারনেট
+Interpret, ব্যাখ্যা করা
+Interrupt, বাধা দেওয়া
+Interview, সাক্ষাৎকার
+Into, ভিতরে
+Introduce, পরিচয় করানো
+Introduction, ভূমিকা / পরিচিতি
+Invent, আবিষ্কার করা
+Invention, আবিষ্কার
+Invest, বিনিয়োগ করা
+Investigate, তদন্ত করা
+Investigation, তদন্ত
+Investment, বিনিয়োগ
+Invitation, আমন্ত্রণ
+Invite, আমন্ত্রণ জানানো
+Involve, জড়িত করা
+Involved, জড়িত
+Iron, লোহা / ইস্ত্রি করা
+Island, দ্বীপ
+Issue, সমস্যা / প্রকাশ করা
+IT, তথ্যপ্রযুক্তি
+It, এটি
+Item, বস্তু
+Its, এর
+Itself, নিজেই
+Jacket, জ্যাকেট
+Jam, জ্যাম
+January, জানুয়ারি
+Jazz, জ্যাজ সংগীত
+Jeans, জিন্স
+Jewelry, গয়না
+Job, কাজ / চাকরি
+Join, যোগ দেওয়া
+Joke, রসিকতা
+Journal, সাময়িকী
+Journalist, সাংবাদিক
+Knock, কড়া নাড়া
+Know, জানা
+Knowledge, জ্ঞান
+Lab, ল্যাব
+Label, লেবেল
+Labor, শ্রম
+Laboratory, গবেষণাগার
+Lack, অভাব
+Lady, ভদ্রমহিলা
+Lake, হ্রদ
+Lamp, বাতি
+Land, জমি
+Landscape, প্রাকৃতিক দৃশ্য
+Language, ভাষা
+Laptop, ল্যাপটপ
+Large, বড়
+Largely, মূলত
+Last, শেষ / সর্বশেষ
+Late, দেরি
+Later, পরে
+Latest, সর্বশেষ
+Laugh, হাসা
+Laughter, হাসি
+Launch, উদ্বোধন করা
+Lawn, লন / ঘাসের মাঠ
+Lawyer, আইনজীবী
+Lay, রাখা
+Layer, স্তর
+Lazy, অলস
+Lead, নেতৃত্ব দেওয়া / সীসা
+Leader, নেতা
+Leadership, নেতৃত্ব
+Leading, অগ্রণী
+Leaf, পাতা
+League, লীগ / জোট
+Lean, ঝুঁকে থাকা / রোগা
+Learn, শেখা
+Learning, শিক্ষা
+Least, সর্বনিম্ন
+Leather, চামড়া
+Leave, ছেড়ে যাওয়া
+Lecture, বক্তৃতা
+Left, বাম / ছেড়ে গেছে
+Leg, পা
+Legal, আইনগত
+Leisure, অবসর
+Lemon, লেবু
+Lend, ধার দেওয়া
+Length, দৈর্ঘ্য
+Less, কম
+Lesson, পাঠ
+Let, অনুমতি দেওয়া
+Letter, চিঠি / বর্ণ
+Level, স্তর
+Library, গ্রন্থাগার
+License, লাইসেন্স
+Lie, মিথ্যা বলা / শোয়া
+Life, জীবন
+Lifestyle, জীবনযাপন পদ্ধতি
+Lift, উঠানো
+Light, আলো / হালকা
+Like, পছন্দ করা / মতো
+Likely, সম্ভাব্য
+Limit, সীমা
+Limited, সীমিত
+Line, লাইন / রেখা
+Link, সংযোগ
+Lion, সিংহ
+Lip, ঠোঁট
+Liquid, তরল
+List, তালিকা
+Listen, শোনা
+Listener, শ্রোতা
+Literature, সাহিত্য
+Little, অল্প / ছোট
+Live, বসবাস করা / সরাসরি
+Lively, প্রাণবন্ত
+Living, জীবিত / জীবিকা
+Load, বোঝা / লোড
+Loan, ঋণ
+Local, স্থানীয়
+Locate, অবস্থান নির্ণয় করা
+Located, অবস্থিত
+Location, অবস্থান
+Lock, তালা / বন্ধ করা
+Logical, যৌক্তিক
+Lonely, একাকী
+Long, দীর্ঘ
+Long-term, দীর্ঘমেয়াদি
+Look, দেখা / চেহারা
+Loose, ঢিলা
+Lord, প্রভু
+Lose, হারানো
+Loss, ক্ষতি
+Lost, হারানো গেছে
+Lot, অনেক / ভাগ
+Loud, জোরে
+Loudly, উচ্চস্বরে
+Love, ভালোবাসা
+Low, নিচু
+Lower, কমানো / নিচের
+Luck, ভাগ্য
+Lucky, ভাগ্যবান
+Lunch, মধ্যাহ্নভোজন
+Lung, ফুসফুস
+Luxury, বিলাসিতা
+Machine, যন্ত্র
+Mad, রাগান্বিত / পাগল
+Magazine, ম্যাগাজিন
+Magic, জাদু
+Mail, ডাক
+Main, প্রধান
+Mainly, প্রধানত
+Maintain, বজায় রাখা
+Major, প্রধান / মেজর
+Majority, সংখ্যাগরিষ্ঠ
+Make, তৈরি করা
+Male, পুরুষ
+Mall, শপিং মল
+Man, মানুষ / পুরুষ
+Manage, পরিচালনা করা
+Management, ব্যবস্থাপনা
+Manager, ব্যবস্থাপক
+Manner, পদ্ধতি / আচরণ
+Many, অনেক
+Map, মানচিত্র
+March, মার্চ
+Mark, চিহ্ন / নম্বর
+Market, বাজার
+Marketing, বিপণন
+Marriage, বিবাহ
+Married, বিবাহিত
+Marry, বিয়ে করা
+Mass, ভর / বৃহৎ সংখ্যা
+Massive, বিশাল
+Master, প্রভু / দক্ষ হওয়া
+Match, মিল / প্রতিযোগিতা
+Matching, মিলযুক্ত
+Material, উপাদান
+Math, গণিত
+Mathematics, গণিতশাস্ত্র
+Matter, বিষয় / গুরুত্ব থাকা
+May, মে
+Maximum, সর্বোচ্চ
+May, পারে / অনুমতি
+Maybe, হয়তো
+Mayor, মেয়র
+Me, আমাকে
+Meal, আহার
+Mean, অর্থ বোঝানো / কৃপণ
+Meaning, অর্থ
+Means, উপায়
+Meanwhile, এদিকে
+Measure, পরিমাপ করা
+Measurement, পরিমাপ
+Meat, মাংস
+Media, গণমাধ্যম
+Medical, চিকিৎসাসংক্রান্ত
+Medicine, ওষুধ
+Medium, মাধ্যম / মধ্যম
+Meet, দেখা করা
+Meeting, সভা
+Melt, গলে যাওয়া
+Member, সদস্য
+Memory, স্মৃতি
+Mental, মানসিক
+Mention, উল্লেখ করা
+Menu, মেনু
+Mess, বিশৃঙ্খলা
+Message, বার্তা
+Metal, ধাতু
+Meter, মিটার
+Method, পদ্ধতি
+Middle, মাঝখান
+Midnight, মধ্যরাত
+Might, হতে পারে / শক্তি
+Mild, মৃদু
+Mile, মাইল
+Military, সামরিক
+Million, দশ লক্ষ
+Mind, মন
+Mine, আমারটি
+Mine, খনি
+Mineral, খনিজ
+Minimum, সর্বনিম্ন
+Minister, মন্ত্রী
+Minor, অপ্রধান / নাবালক
+Minority, সংখ্যালঘু
+Minute, মিনিট
+Mirror, আয়না
+Miss, মিস করা / মিসেস
+Missing, অনুপস্থিত
+Mission, মিশন / দায়িত্ব
+Mistake, ভুল
+Mix, মেশানো
+Mixed, মিশ্রিত
+Mixture, মিশ্রণ
+Model, মডেল / আদর্শ
+Modern, আধুনিক
+Modify, পরিবর্তন করা
+Mom, মা
+Moment, মুহূর্ত
+Monday, সোমবার
+Money, টাকা
+Monitor, পর্যবেক্ষণ করা / মনিটর
+Monkey, বানর
+Month, মাস
+Mood, মেজাজ
+Moon, চাঁদ
+Moral, নৈতিক
+More, আরও
+Morning, সকাল
+Most, অধিকাংশ / সবচেয়ে
+Mostly, বেশিরভাগই
+Mother, মা
+Motor, মোটর
+Motorcycle, মোটরসাইকেল
+Mount, আরোহন করা / স্থাপন করা
+Mountain, পর্বত
+Mouse, ইঁদুর / মাউস
+Mouth, মুখ
+Move, সরানো / নড়া
+Movement, আন্দোলন / গতি
+Movie, সিনেমা
+Much, অনেক
+Mud, কাদা
+Multiple, একাধিক
+Multiply, গুণ করা
+Murder, খুন
+Muscle, পেশি
+Museum, জাদুঘর
+Music, সঙ্গীত
+Musical, সঙ্গীতসংক্রান্ত
+Musician, সঙ্গীতশিল্পী
+Must, অবশ্যই
+My, আমার
+Myself, আমি নিজে
+Mysterious, রহস্যময়
+Mystery, রহস্য
+Nail, নখ / পেরেক
+Name, নাম
+Narrative, বর্ণনা
+Narrow, সংকীর্ণ
+Nation, জাতি
+National, জাতীয়
+Native, স্থানীয় / জন্মগত
+Natural, প্রাকৃতিক
+Naturally, স্বাভাবিকভাবে
+Nature, প্রকৃতি
+Near, কাছে
+Nearly, প্রায়
+Neat, পরিপাটি
+Necessarily, আবশ্যিকভাবে
+Necessary, প্রয়োজনীয়
+Neck, গলা
+Need, প্রয়োজন
+Needle, সূঁচ
+Negative, নেতিবাচক
+Neighbor, প্রতিবেশী
+Neighborhood, পাড়া
+Neither, কোনোটিই নয়
+Nerve, স্নায়ু
+Nervous, নার্ভাস / উদ্বিগ্ন
+Net, জাল / নিট
+Network, নেটওয়ার্ক
+Never, কখনো না
+Nevertheless, তবুও
+New, নতুন
+News, খবর
+Newspaper, সংবাদপত্র
+Next, পরবর্তী
+Next to, পাশে
+Nice, সুন্দর / ভালো
+Night, রাত
+Nightmare, দুঃস্বপ্ন
+Nine, নয়
+Nineteen, উনিশ
+Ninety, নব্বই
+No, না
+No one, কেউ না
+Nobody, কেউ না
+Noise, শব্দ
+Noisy, শব্দপূর্ণ
+None, কোনোটি নয়
+Nor, অথবা না
+Normal, স্বাভাবিক
+Normally, সাধারণত
+North, উত্তর
+Northern, উত্তরাঞ্চলীয়
+Nose, নাক
+Not, নয়
+Note, নোট / লক্ষ্য করা
+Nothing, কিছুই না
+Notice, লক্ষ্য করা / নোটিশ
+Notion, ধারণা
+Novel, উপন্যাস / নতুন
+November, নভেম্বর
+Now, এখন
+Nowhere, কোথাও না
+Nuclear, পারমাণবিক
+Number, সংখ্যা
+Numerous, অসংখ্য
+Nurse, নার্স
+Nut, বাদাম
+Obey, মান্য করা
+Object, বস্তু / আপত্তি করা
+Objective, উদ্দেশ্য / নিরপেক্ষ
+Obligation, বাধ্যবাধকতা
+Observation, পর্যবেক্ষণ
+Observe, পর্যবেক্ষণ করা
+Obtain, অর্জন করা
+Obvious, স্পষ্ট
+Obviously, স্পষ্টভাবে
+Occasion, উপলক্ষ
+Occasionally, মাঝে মাঝে
+Occur, ঘটানো
+Ocean, মহাসাগর
+O'clock, বাজে
+October, অক্টোবর
+Odd, বিজোড় / অদ্ভুত
+Of, এর
+Off, বন্ধ / থেকে দূরে
+Offend, অপমান করা
+Offense, অপরাধ / অপমান
+Offensive, আপত্তিকর
+Offer, প্রস্তাব / অফার করা
+Office, অফিস
+Officer, কর্মকর্তা
+Official, সরকারি / কর্মকর্তা
+Often, প্রায়ই
+Oh, ওহ
+Oil, তেল
+OK, ঠিক আছে
+Old, পুরোনো
+Old-fashioned, সেকেলে
+On, উপর / চালু
+Once, একবার
+One, এক
+Onion, পেঁয়াজ
+Online, অনলাইনে
+Only, শুধু
+Onto, উপর দিকে
+Open, খোলা
+Opening, উদ্বোধন / খোলা অংশ
+Operate, পরিচালনা করা
+Operation, কার্যক্রম / অপারেশন
+Opinion, মতামত
+Opponent, প্রতিপক্ষ
+Opportunity, সুযোগ
+Oppose, বিরোধিতা করা
+Opposed, বিরোধী
+Opposite, বিপরীত
+Opposition, বিরোধিতা
+Option, বিকল্প
+Or, অথবা
+Orange, কমলা / কমলা রঙ
+Order, আদেশ / ক্রম
+Ordinary, সাধারণ
+Organ, অঙ্গ
+Organization, প্রতিষ্ঠান
+Organize, সংগঠিত করা
+Organized, সংগঠিত
+Organizer, আয়োজক
+Origin, উৎস
+Original, মৌলিক
+Originally, মূলত
+Other, অন্য
+Otherwise, নাহলে
+Ought, উচিত
+Our, আমাদের
+Ours, আমাদেরটি
+Ourselves, আমরা নিজেরা
+Out, বাইরে
+Outcome, ফলাফল
+Outdoor, বাইরের
+Outdoors, বাইরে
+Outer, বাহ্যিক
+Outline, রূপরেখা
+Outside, বাইরে
+Oven, চুলা
+Over, উপর / বেশি
+Overall, সামগ্রিক
+Overseas, বিদেশে
+Owe, ঋণী থাকা
+Own, নিজের / মালিক হওয়া
+Owner, মালিক
+Pace, গতি
+Pack, প্যাক করা / প্যাকেট
+Package, প্যাকেজ
+Page, পৃষ্ঠা
+Pain, ব্যথা
+Painful, বেদনাদায়ক
+Paint, রং করা / রং
+Painter, চিত্রশিল্পী
+Painting, চিত্রকর্ম
+Pair, জোড়া
+Palace, প্রাসাদ
+Pale, ফ্যাকাশে
+Pan, প্যান
+Panel, প্যানেল
+Pants, প্যান্ট
+Paper, কাগজ
+Paragraph, অনুচ্ছেদ
+Parent, অভিভাবক
+Park, পার্ক / গাড়ি রাখা
+Parking, পার্কিং
+Part, অংশ
+Participant, অংশগ্রহণকারী
+Participate, অংশগ্রহণ করা
+Particular, বিশেষ
+Particularly, বিশেষভাবে
+Partly, আংশিকভাবে
+Partner, অংশীদার
+Party, পার্টি / দল
+Pass, পাশ করা / পাস
+Passage, পথ / অনুচ্ছেদ
+Passenger, যাত্রী
+Passion, আবেগ
+Passport, পাসপোর্ট
+Past, অতীত
+Path, পথ
+Patient, রোগী / ধৈর্যশীল
+Pattern, নকশা / ধরণ
+Pay, পরিশোধ করা
+Payment, পরিশোধ
+Peace, শান্তি
+Peaceful, শান্তিপূর্ণ
+Pen, কলম
+Pencil, পেন্সিল
+Penny, পেনি
+People, মানুষ
+Pepper, মরিচ
+Per, প্রতি
+Percent, শতাংশ
+Percentage, শতকরা হার
+Perfect, নিখুঁত
+Perfectly, নিখুঁতভাবে
+Perform, সম্পাদন করা
+Performance, প্রদর্শন / কর্মক্ষমতা
+Perhaps, হয়তো
+Period, সময়কাল
+Permanent, স্থায়ী
+Permission, অনুমতি
+Permit, অনুমতি দেওয়া / পারমিট
+Person, ব্যক্তি
+Personal, ব্যক্তিগত
+Personality, ব্যক্তিত্ব
+Personally, ব্যক্তিগতভাবে
+Perspective, দৃষ্টিভঙ্গি
+Persuade, রাজি করানো
+Pet, পোষা প্রাণী
+Phase, পর্যায়
+Phenomenon, ঘটনা / প্রপঞ্চ
+philosophy , দর্শন
+phrase , বাক্যাংশ
+physics , পদার্থবিজ্ঞান
+plan , পরিকল্পনা
+possibly , সম্ভবত
+post , ডাক / পোস্ট করা
+poster , পোস্টার
+pot , হাঁড়ি / পাত্র
+potato , আলু
+promote , উন্নীত করা / প্রচার করা
+pronounce , উচ্চারণ করা
+proof , প্রমাণ
+proper , যথাযথ
+properly , যথাযথভাবে
+potential , সম্ভাব্য / সম্ভাবনা
+pound , পাউন্ড / আঘাত করা
+property , সম্পত্তি
+proposal , প্রস্তাব
+pour , ঢালা
+poverty , দারিদ্র্য
+powder , গুঁড়া
+power , ক্ষমতা / শক্তি
+powerful , শক্তিশালী
+practical , ব্যবহারিক
+pick , বেছে নেওয়া / কুড়ানো
+picture , ছবি
+piece , টুকরা
+pig , শূকর
+practice , অনুশীলন
+pile , স্তূপ
+praise , প্রশংসা
+pilot , পাইলট
+pray , প্রার্থনা করা
+prayer , প্রার্থনা
+pin , পিন
+pink , গোলাপি
+pipe , পাইপ / নল
+pitch , নিক্ষেপ / সুর
+place , স্থান
+plain , সাধারণ / সমতল
+plane , বিমান / সমতল
+planet , গ্রহ
+planning , পরিকল্পনা করা
+plant , গাছ / কারখানা
+plastic , প্লাস্টিক
+plate , প্লেট
+platform , প্ল্যাটফর্ম
+play , খেলা / অভিনয় করা
+player , খেলোয়াড়
+pleasant , মনোরম
+please , অনুগ্রহ করা / খুশি করা
+pleased , সন্তুষ্ট
+pleasure , আনন্দ
+plenty , প্রচুর
+predict , পূর্বাভাস দেওয়া
+prediction , পূর্বাভাস
+prefer , পছন্দ করা
+pregnant , গর্ভবতী
+preparation , প্রস্তুতি
+prepare , প্রস্তুত করা
+prepared , প্রস্তুত
+presence , উপস্থিতি
+present , উপস্থাপন করা / বর্তমান
+presentation , উপস্থাপনা
+preserve , সংরক্ষণ করা
+president , রাষ্ট্রপতি
+press , চাপ দেওয়া / সংবাদমাধ্যম
+pressure , চাপ
+pretend , ভান করা
+pretty , সুন্দর / বেশ
+prevent , প্রতিরোধ করা
+previous , পূর্ববর্তী
+previously , পূর্বে
+price , মূল্য
+propose , প্রস্তাব করা
+prospect , সম্ভাবনা
+protect , রক্ষা করা
+protection , সুরক্ষা
+protest , প্রতিবাদ
+proud , গর্বিত
+prove , প্রমাণ করা
+provide , সরবরাহ করা
+psychologist , মনোবিজ্ঞানী
+psychology , মনোবিজ্ঞান
+public , জনসাধারণ / প্রকাশ্য
+publication , প্রকাশনা
+publish , প্রকাশ করা
+pull , টানা
+punish , শাস্তি দেওয়া
+punishment , শাস্তি
+purchase , ক্রয় করা
+pure , বিশুদ্ধ
+purple , বেগুনি
+purpose , উদ্দেশ্য
+pursue , অনুসরণ করা
+push , ধাক্কা দেওয়া
+put , রাখা
+qualification , যোগ্যতা
+qualified , যোগ্য
+qualify , যোগ্যতা অর্জন করা
+quality , গুণমান
+quantity , পরিমাণ
+quarter , চতুর্থাংশ
+queen , রাণী
+plot , কাহিনি / ষড়যন্ত্র
+plus , যোগ
+pocket , পকেট
+prime , প্রধান
+priest , পুরোহিত
+question , প্রশ্ন
+primary , প্রাথমিক
+quick , দ্রুত
+quickly , দ্রুতভাবে
+prince , রাজপুত্র
+quiet , শান্ত
+quietly , শান্তভাবে
+poem , কবিতা
+poet , কবি
+poetry , কবিতা সাহিত্য
+point , বিন্দু / বিষয়
+princess , রাজকুমারী
+principal , প্রধান / অধ্যক্ষ
+principle , নীতি
+pointed , সূচালো / ইঙ্গিতপূর্ণ
+print , মুদ্রণ করা
+poison , বিষ
+printer , প্রিন্টার
+poisonous , বিষাক্ত
+printing , মুদ্রণ
+police , পুলিশ
+priority , অগ্রাধিকার
+policeman , পুলিশ সদস্য
+prison , কারাগার
+policy , নীতি
+polite , ভদ্র
+political , রাজনৈতিক
+politician , রাজনীতিবিদ
+politics , রাজনীতি
+pollution , দূষণ
+pool , পুকুর / সুইমিং পুল
+poor , দরিদ্র
+pop , পপ সংগীত / হঠাৎ শব্দ
+popular , জনপ্রিয়
+popularity , জনপ্রিয়তা
+population , জনসংখ্যা
+port , বন্দর
+portrait , প্রতিকৃতি
+pose , ভঙ্গি / উপস্থাপন করা
+position , অবস্থান
+positive , ইতিবাচক
+possess , অধিকার করা
+possession , মালিকানা
+possibility , সম্ভাবনা
+possible , সম্ভব
+prisoner , বন্দী
+privacy , গোপনীয়তা
+private , ব্যক্তিগত
+prize , পুরস্কার
+probably , সম্ভবত
+problem , সমস্যা
+procedure , প্রক্রিয়া
+process , প্রক্রিয়া
+produce , উৎপাদন করা
+producer , প্রযোজক
+product , পণ্য
+production , উৎপাদন
+profession , পেশা
+professional , পেশাদার
+professor , অধ্যাপক
+profile , প্রোফাইল
+profit , লাভ
+program , কর্মসূচি / প্রোগ্রাম
+progress , অগ্রগতি
+project , প্রকল্প
+promise , প্রতিশ্রুতি
+quit , ছেড়ে দেওয়া
+quite , বেশ / সম্পূর্ণ
+quotation , উদ্ধৃতি
+quote , উদ্ধৃত করা
+race , দৌড় / জাতি
+race , প্রতিযোগিতা
+racing , দৌড় প্রতিযোগিতা
+radio , রেডিও
+railroad , রেলপথ
+rain , বৃষ্টি
+raise , বাড়ানো / উত্তোলন করা
+range , পরিসর
+rank , পদমর্যাদা
+rapid , দ্রুত
+rapidly , দ্রুতগতিতে
+rare , বিরল
+rarely , কদাচিৎ
+rate , হার / মূল্যায়ন করা
+rather , বরং
+raw , কাঁচা
+reach , পৌঁছানো
+react , প্রতিক্রিয়া দেখানো
+reaction , প্রতিক্রিয়া
+read , পড়া
+reader , পাঠক
+reading , পড়া / পাঠ
+ready , প্রস্তুত
+real , বাস্তব
+realistic , বাস্তবসম্মত
+reality , বাস্তবতা
+realize , উপলব্ধি করা
+really , সত্যিই
+reason , কারণ
+reasonable , যুক্তিসঙ্গত
+recall , স্মরণ করা
+receipt , রসিদ
+receive , গ্রহণ করা
+recent , সাম্প্রতিক
+recently , সম্প্রতি
+reception , অভ্যর্থনা
+recipe , রান্নার রেসিপি
+recognize , চিনতে পারা
+recommend , সুপারিশ করা
+recommendation , সুপারিশ
+record , রেকর্ড / নথিভুক্ত করা
+recording , রেকর্ডিং
+recover , পুনরুদ্ধার করা
+recycle , পুনর্ব্যবহার করা
+red , লাল
+reduce , কমানো
+reduction , হ্রাস
+refer , উল্লেখ করা
+reference , রেফারেন্স / উল্লেখ
+reflect , প্রতিফলিত করা
+refrigerator , ফ্রিজ
+refuse , অস্বীকার করা
+regard , সম্মান / বিবেচনা করা
+region , অঞ্চল
+regional , আঞ্চলিক
+register , নিবন্ধন করা
+regret , অনুতাপ
+regular , নিয়মিত
+regularly , নিয়মিতভাবে
+regulation , বিধি / নিয়ম
+reject , প্রত্যাখ্যান করা
+relate , সম্পর্কিত করা
+related , সম্পর্কিত
+relation , সম্পর্ক
+relationship , সম্পর্ক
+relative , আত্মীয় / আপেক্ষিক
+relatively , তুলনামূলকভাবে
+relax , বিশ্রাম নেওয়া
+relaxed , স্বস্তিদায়ক / আরামপ্রাপ্ত
+relaxing , আরামদায়ক
+release , মুক্তি দেওয়া
+relevant , প্রাসঙ্গিক
+reliable , নির্ভরযোগ্য
+relief , স্বস্তি
+religion , ধর্ম
+religious , ধর্মীয়
+rely , নির্ভর করা
+remain , থেকে যাওয়া
+remark , মন্তব্য
+remember , মনে রাখা
+remind , মনে করিয়ে দেওয়া
+remote , দূরবর্তী
+remove , সরিয়ে ফেলা
+rent , ভাড়া
+repair , মেরামত করা
+repeat , পুনরাবৃত্তি করা
+repeated , পুনরাবৃত্ত
+replace , প্রতিস্থাপন করা
+reply , উত্তর দেওয়া
+report , প্রতিবেদন
+reporter , সংবাদদাতা
+represent , প্রতিনিধিত্ব করা
+representative , প্রতিনিধি
+reputation , সুনাম
+request , অনুরোধ
+require , প্রয়োজন হওয়া
+requirement , প্রয়োজনীয়তা
+rescue , উদ্ধার করা
+research , গবেষণা
+researcher , গবেষক
+reservation , সংরক্ষণ / বুকিং
+reserve , সংরক্ষণ করা
+resident , বাসিন্দা
+resist , প্রতিরোধ করা
+resolve , সমাধান করা / সংকল্প করা
+resort , অবকাশ কেন্দ্র
+resource , সম্পদ
+respect , সম্মান
+respond , সাড়া দেওয়া
+response , প্রতিক্রিয়া
+responsibility , দায়িত্ব
+responsible , দায়িত্বশীল
+safe , নিরাপদ
+safety , নিরাপত্তা
+sail , নৌকা চালানো
+sailing , নৌযান চালনা
+sailor , নাবিক
+salad , সালাদ
+salary , বেতন
+sale , বিক্রয়
+salt , লবণ
+same , একই
+sample , নমুনা
+sand , বালি
+sandwich , স্যান্ডউইচ
+satellite , উপগ্রহ
+satisfied , সন্তুষ্ট
+satisfy , সন্তুষ্ট করা
+Saturday , শনিবার
+serious , গুরুতর
+seriously , গুরুত্বসহকারে
+servant , চাকর / কর্মচারী
+serve , পরিবেশন করা / সেবা করা
+service , সেবা
+session , অধিবেশন / সেশন
+set , স্থাপন করা / সেট
+set , নির্ধারণ করা
+setting , পরিবেশ / সেটিং
+settle , মীমাংসা করা / বসবাস শুরু করা
+seven , সাত
+seventeen , সতেরো
+seventy , সত্তর
+several , কয়েকটি
+severe , তীব্র
+sex , লিঙ্গ / যৌনতা
+sexual , যৌন সম্পর্কিত
+shade , ছায়া
+since , যেহেতু / থেকে
+sincere , আন্তরিক
+sing , গান গাওয়া
+singer , গায়ক / গায়িকা
+singing , গান গাওয়া
+single , একক / অবিবাহিত
+sink , ডুবে যাওয়া
+sir , মহাশয়
+sister , বোন
+sit , বসা
+site , স্থান / সাইট
+situation , পরিস্থিতি
+six , ছয়
+sixteen , ষোল
+sixty , ষাট
+size , আকার
+ski , স্কি করা
+skiing , স্কি খেলা
+skill , দক্ষতা
+sauce , সস
+save , সংরক্ষণ করা / বাঁচানো
+shadow , ছায়া
+saving , সঞ্চয়
+shake , ঝাঁকানো
+skin , ত্বক
+say , বলা
+shall , হবে
+scale , পরিমাপ / স্কেল
+scan , স্ক্যান করা
+scared , ভীত
+rest , বিশ্রাম
+rest , অবশিষ্ট
+restaurant , রেস্টুরেন্ট
+result , ফলাফল
+retain , ধরে রাখা
+retire , অবসর নেওয়া
+retired , অবসরপ্রাপ্ত
+return , ফিরে আসা / ফেরত দেওয়া
+reveal , প্রকাশ করা
+review , পর্যালোচনা
+revise , সংশোধন করা
+revolution , বিপ্লব
+reward , পুরস্কার
+rhythm , তাল / ছন্দ
+rice , চাল / ভাত
+rich , ধনী
+rid , মুক্ত করা
+ride , চড়া / ভ্রমণ করা
+right , সঠিক / ডান দিক
+ring , আংটি
+ring , বেজে ওঠা
+rise , ওঠা
+risk , ঝুঁকি
+river , নদী
+road , রাস্তা
+robot , রোবট
+rock , পাথর
+rock , দুলানো
+role , ভূমিকা
+roll , গড়ানো
+romantic , রোমান্টিক
+roof , ছাদ
+room , কক্ষ / ঘর
+root , শিকড়
+rope , দড়ি
+rough , রুক্ষ
+round , গোল / চক্র
+route , পথ
+routine , নিয়মিত কাজ
+row , সারি
+royal , রাজকীয়
+rub , ঘষা
+rubber , রাবার
+rude , অভদ্র
+rule , নিয়ম
+run , দৌড়ানো
+runner , দৌড়বিদ
+running , দৌড়ানো
+rural , গ্রামীণ
+rush , তাড়াহুড়ো
+sad , দুঃখিত
+sadly , দুঃখের সাথে
+scary , ভয়ঙ্কর
+scene , দৃশ্য
+schedule , সময়সূচি
+school , স্কুল
+science , বিজ্ঞান
+scientific , বৈজ্ঞানিক
+scientist , বিজ্ঞানী
+score , স্কোর / নম্বর
+scream , চিৎকার করা
+screen , পর্দা
+script , চিত্রনাট্য / স্ক্রিপ্ট
+sculpture , ভাস্কর্য
+sea , সমুদ্র
+search , অনুসন্ধান
+season , ঋতু
+seat , আসন
+shallow , অগভীর
+shame , লজ্জা
+shape , আকার
+share , ভাগ করা
+sharp , ধারালো
+she , সে (মেয়ে)
+sheep , ভেড়া
+sheet , চাদর / পৃষ্ঠা
+shelf , তাক
+shell , খোলস
+shelter , আশ্রয়
+shift , পরিবর্তন / শিফট
+shine , উজ্জ্বল হওয়া
+shiny , চকচকে
+ship , জাহাজ
+shirt , শার্ট
+shock , ধাক্কা / আঘাত
+shocked , বিস্মিত
+shoe , জুতা
+second , সেকেন্ড / দ্বিতীয়
+shoot , গুলি করা
+second , সহকারী / দ্বিতীয়
+secondary , মাধ্যমিক
+secret , গোপন
+secretary , সচিব
+section , বিভাগ
+sector , খাত / সেক্টর
+secure , নিরাপদ / সুরক্ষিত করা
+security , নিরাপত্তা
+see , দেখা
+seed , বীজ
+seek , খোঁজা
+shooting , গুলিবর্ষণ
+shop , দোকান
+shopping , কেনাকাটা
+short , ছোট
+shot , গুলি / শট
+should , উচিত
+shoulder , কাঁধ
+shout , চিৎকার করা
+show , দেখানো
+shower , ঝরনা
+shut , বন্ধ করা
+shy , লাজুক
+seem , মনে হওয়া
+sick , অসুস্থ
+select , নির্বাচন করা
+side , পাশ
+selection , নির্বাচন
+self , নিজ
+sell , বিক্রি করা
+senate , সিনেট
+senator , সিনেটর
+send , পাঠানো
+senior , জ্যেষ্ঠ
+sense , অনুভূতি / বোধ
+sensible , বিচক্ষণ
+sensitive , সংবেদনশীল
+sentence , বাক্য / দণ্ড
+separate , আলাদা
+September , সেপ্টেম্বর
+sequence , ক্রম
+series , ধারাবাহিক
+sight , দৃষ্টি
+sign , চিহ্ন / স্বাক্ষর
+signal , সংকেত
+significant , গুরুত্বপূর্ণ
+significantly , উল্লেখযোগ্যভাবে
+silence , নীরবতা
+silent , নীরব
+silk , রেশম
+silly , বোকা
+silver , রূপা
+similar , অনুরূপ
+similarity , সাদৃশ্য
+similarly , অনুরূপভাবে
+simple , সহজ
+simply , সহজভাবে
+skirt , স্কার্ট
+sky , আকাশ
+slave , দাস
+sleep , ঘুম
+slice , টুকরো
+slide , পিছলে যাওয়া
+slight , সামান্য
+slightly , সামান্যভাবে
+slip , পিছলে যাওয়া / ভুল করা
+slope , ঢাল
+slow , ধীর
+slowly , ধীরে
+small , ছোট
+smart , বুদ্ধিমান
+smartphone , স্মার্টফোন
+smell , গন্ধ
+smile , হাসি
+smoke , ধোঁয়া
+smoking , ধূমপান
+smooth , মসৃণ
+snake , সাপ
+sneaker , কেডস / স্নিকার
+snow , তুষার
+so , তাই / খুব
+soap , সাবান
+soccer , ফুটবল
+social , সামাজিক
+society , সমাজ
+sock , মোজা
+soft , নরম
+software , সফটওয়্যার
+soil , মাটি
+solar , সৌর
+soldier , সৈনিক
+solid , কঠিন / দৃঢ়
+solution , সমাধান
+solve , সমাধান করা
+some , কিছু
+somebody , কেউ একজন
+someone , কেউ
+something , কিছু একটা
+sometimes , কখনও কখনও
+somewhat , কিছুটা
+somewhere , কোথাও
+son , ছেলে
+song , গান
+soon , শীঘ্রই
+sorry , দুঃখিত
+sort , প্রকার / সাজানো
+soul , আত্মা
+sound – শব্দ
+soup – স্যুপ
+source – উৎস
+south – দক্ষিণ
+southern – দক্ষিণাঞ্চলীয়
+space – স্থান / মহাকাশ
+speak – কথা বলা
+speaker – বক্তা
+special – বিশেষ
+specialist – বিশেষজ্ঞ
+specifically – নির্দিষ্টভাবে
+species – প্রজাতি
+specific – নির্দিষ্ট
+speech – বক্তৃতা
+speed – গতি
+spell – বানান করা
+spelling – বানান
+spend – ব্যয় করা
+spending – ব্যয়
+spicy – ঝাল
+spider – মাকড়সা
+spirit – আত্মা / মনোবল
+spiritual – আধ্যাত্মিক
+split – বিভক্ত করা
+spoken – কথিত
+sponsor – পৃষ্ঠপোষক
+spoon – চামচ
+sport – খেলা
+spot – দাগ / স্থান
+spread – ছড়ানো
+spring – বসন্ত / ঝরনা
+square – বর্গ / চতুর্ভুজ
+stable – স্থিতিশীল
+stadium – স্টেডিয়াম
+staff – কর্মী
+stage – মঞ্চ / ধাপ
+stair – সিঁড়ি
+stamp – ডাকটিকিট / সিল
+stand – দাঁড়ানো
+standard – মান
+star – তারা
+stare – একদৃষ্টিতে তাকানো
+start – শুরু করা
+state – রাষ্ট্র / অবস্থা
+statement – বিবৃতি
+station – স্টেশন
+statistic – পরিসংখ্যান
+statue – মূর্তি
+status – অবস্থা / মর্যাদা
+stay – থাকা
+steady – স্থির
+steal – চুরি করা
+steel – ইস্পাত
+steep – খাড়া
+step – ধাপ / পা ফেলা
+stick – লাঠি
+stick – আটকে থাকা
+sticky – আঠালো
+stiff – শক্ত
+still – এখনও / স্থির
+stock – মজুদ
+stomach – পেট
+stone – পাথর
+stop – থামানো
+store – দোকান / সংরক্ষণ করা
+storm – ঝড়
+story – গল্প
+stove – চুলা
+straight – সোজা
+strange – অদ্ভুত
+stranger – অপরিচিত ব্যক্তি
+strategy – কৌশল
+stream – স্রোত
+street – রাস্তা
+strength – শক্তি
+stress – চাপ
+stretch – টান
+strict – কঠোর
+strike – আঘাত / ধর্মঘট
+string – দড়ি / তার
+strong – শক্তিশালী
+strongly – দৃঢ়ভাবে
+structure – কাঠামো
+struggle – সংগ্রাম
+student – ছাত্র / ছাত্রী
+studio – স্টুডিও
+study – পড়াশোনা / অধ্যয়ন
+stuff – জিনিসপত্র
+stupid – বোকা
+style – ধরন / স্টাইল
+subject – বিষয়
+submit – জমা দেওয়া
+substance – পদার্থ
+subway – পাতাল রেল
+succeed – সফল হওয়া
+success – সাফল্য
+successful – সফল
+successfully – সফলভাবে
+such – এমন
+sudden – আকস্মিক
+suddenly – হঠাৎ
+suffer – কষ্ট পাওয়া
+sugar – চিনি
+suggest – পরামর্শ দেওয়া
+suggestion – পরামর্শ
+suit – মানানসই হওয়া / স্যুট
+suitable – উপযুক্ত
+sum – যোগফল
+summarize – সারসংক্ষেপ করা
+summary – সারাংশ
+summer – গ্রীষ্মকাল
+sun – সূর্য
+Sunday – রবিবার
+supermarket – সুপারমার্কেট
+supply – সরবরাহ
+support – সমর্থন
+supporter – সমর্থক
+suppose – মনে করা
+sure – নিশ্চিত
+surely – নিশ্চয়ই
+surface – পৃষ্ঠ
+surgery – অস্ত্রোপচার
+surprise – বিস্ময়
+surprised – বিস্মিত
+surprising – বিস্ময়কর
+surround – ঘিরে রাখা
+surrounding – পারিপার্শ্বিক
+survey – জরিপ
+survive – বেঁচে থাকা
+suspect – সন্দেহ করা / সন্দেহভাজন
+swear – শপথ করা
+sweater – সোয়েটার
+sweep – ঝাড়ু দেওয়া
+sweet – মিষ্টি
+swim – সাঁতার কাটা
+swimming – সাঁতার
+switch – সুইচ / পরিবর্তন করা
+symbol – প্রতীক
+sympathy – সহানুভূতি
+symptom – উপসর্গ
+system – পদ্ধতি / সিস্টেম
+table – টেবিল
+tablet – ট্যাবলেট
+tail – লেজ
+take – নেওয়া
+tale – কাহিনি
+talent – প্রতিভা
+talented – প্রতিভাবান
+talk – কথা বলা
+tall – লম্বা
+tank – ট্যাংক
+tape – ফিতা / টেপ
+target – লক্ষ্য
+task – কাজ / দায়িত্ব
+taste – স্বাদ
+tax – কর
+taxi – ট্যাক্সি
+tea – চা
+teach – শেখানো
+teacher – শিক্ষক / শিক্ষিকা
+teaching – শিক্ষাদান
+team – দল
+tear – অশ্রু
+tear – ছিঁড়ে ফেলা
+technical – প্রযুক্তিগত
+technique – কৌশল
+technology – প্রযুক্তি
+teenage – কিশোর বয়সের
+teenager – কিশোর / কিশোরী
+telephone – টেলিফোন
+television – টেলিভিশন
+tell – বলা
+temperature – তাপমাত্রা
+temporary – অস্থায়ী
+ten – দশ
+tend – প্রবণ হওয়া
+tennis – টেনিস
+tent – তাঁবু
+term – মেয়াদ / পরিভাষা
+terrible – ভয়ংকর
+test – পরীক্ষা
+text – লেখা / বার্তা
+than – থেকে
+thank – ধন্যবাদ জানানো
+thanks – ধন্যবাদ
+that – সেটা / যে
+the – নির্দিষ্ট নির্দেশক শব্দ
+theater – থিয়েটার
+their – তাদের
+theirs – তাদেরটি
+them – তাদেরকে
+theme – মূল ভাব
+themselves – নিজেদের
+then – তারপর
+theory – তত্ত্ব
+therapy – থেরাপি / চিকিৎসা
+there – সেখানে
+therefore – সুতরাং
+they – তারা
+thick – পুরু
+thief – চোর
+thin – পাতলা
+thing – জিনিস
+think – ভাবা
+thinking – চিন্তাভাবনা
+third – তৃতীয়
+thirsty – তৃষ্ণার্ত
+thirteen – তেরো
+thirty – ত্রিশ
+this – এটি
+though – যদিও
+thought – চিন্তা
+thousand – হাজার
+threat – হুমকি
+threaten – হুমকি দেওয়া
+three – তিন
+throat – গলা
+through – মাধ্যমে / ভেতর দিয়ে
+throughout – সর্বত্র
+throw – ছোড়া
+Thursday – বৃহস্পতিবার
+thus – এইভাবে / সুতরাং
+ticket – টিকিট
+tie – টাই / বাঁধা
+tight – আঁটসাঁট
+till – পর্যন্ত
+time – সময়
+tiny – ক্ষুদ্র
+tip – টিপ / পরামর্শ
+tire – টায়ার
+tired – ক্লান্ত
+title – শিরোনাম
+to – প্রতি / দিকে
+today – আজ
+toe – পায়ের আঙুল
+together – একসাথে
+toilet – টয়লেট
+tomato – টমেটো
+tomorrow – আগামীকাল
+ton – টন
+tone – সুর / স্বর
+tongue – জিহ্বা
+tonight – আজ রাত
+too – খুব / এছাড়াও
+tool – সরঞ্জাম
+tooth – দাঁত
+top – শীর্ষ
+topic – বিষয়
+total – মোট
+totally – সম্পূর্ণভাবে
+touch – স্পর্শ
+tough – কঠিন
+tour – ভ্রমণ
+tourism – পর্যটন
+tourist – পর্যটক
+toward – দিকে
+towel – তোয়ালে
+tower – টাওয়ার
+town – শহর
+toy – খেলনা
+track – পথ / ট্র্যাক
+trade – বাণিজ্য
+tradition – ঐতিহ্য
+traditional – ঐতিহ্যবাহী
+traffic – যানবাহন চলাচল
+train – ট্রেন / প্রশিক্ষণ দেওয়া
+trainer – প্রশিক্ষক
+training – প্রশিক্ষণ
+transfer – স্থানান্তর
+transform – রূপান্তর করা
+transition – পরিবর্তনকাল
+translate – অনুবাদ করা
+translation – অনুবাদ
+transport – পরিবহন
+transportation – পরিবহন ব্যবস্থা
+trash – আবর্জনা
+travel – ভ্রমণ
+traveler – ভ্রমণকারী
+treat – আচরণ করা / চিকিৎসা করা
+treatment – চিকিৎসা
+trend – প্রবণতা
+trial – বিচার / পরীক্ষা
+trick – কৌশল / ধোঁকা
+tropical – উষ্ণমণ্ডলীয়
+trouble – ঝামেলা / সমস্যা
+truck – ট্রাক
+true – সত্য
+truly – সত্যিই
+trust – বিশ্বাস
+truth – সত্য
+try – চেষ্টা করা
+tube – নল
+tune – সুর
+tunnel – সুড়ঙ্গ
+turn – ঘোরা / পালা
+twelve – বারো
+twenty – বিশ
+twice – দুইবার
+twin – যমজ
+two – দুই
+type – ধরন / টাইপ করা
+typical – সাধারণ / আদর্শ
+typically – সাধারণত
+ugly – কুৎসিত
+ultimately – শেষ পর্যন্ত
+umbrella – ছাতা
+unable – অক্ষম
+uncle – চাচা / মামা
+uncomfortable – অস্বস্তিকর
+unconscious – অচেতন
+under – নিচে
+underground – ভূগর্ভস্থ
+understand – বোঝা
+understanding – বোঝাপড়া
+underwear – অন্তর্বাস
+unemployed – বেকার
+unexpected – অপ্রত্যাশিত
+unfair – অন্যায়
+unemployment – বেকারত্ব
+unfortunately – দুর্ভাগ্যবশত
+unhappy – অসুখী
+uniform – ইউনিফর্ম
+union – ইউনিয়ন / সংঘ
+unique – অনন্য
+unit – একক
+united – ঐক্যবদ্ধ
+universe – মহাবিশ্ব
+university – বিশ্ববিদ্যালয়
+unknown – অজানা
+unless – যদি না
+unlike – অসদৃশ
+unlikely – সম্ভাবনা কম
+unnecessary – অপ্রয়োজনীয়
+unpleasant – অপ্রিয়
+until – পর্যন্ত
+unusual – অস্বাভাবিক
+up – উপরে
+update – হালনাগাদ করা
+upon – উপর
+upper – উপরের
+upset – বিরক্ত / মন খারাপ
+upstairs – উপরের তলায়
+upward – ঊর্ধ্বমুখী
+urban – শহুরে
+urge – তাগিদ দেওয়া
+us – আমাদের
+use – ব্যবহার করা
+used – ব্যবহৃত
+useful – উপকারী
+user – ব্যবহারকারী
+usual – স্বাভাবিক / প্রচলিত
+usually – সাধারণত
+vacation – ছুটি
+valley – উপত্যকা
+valuable – মূল্যবান
+value – মূল্য
+van – ভ্যান
+variety – বৈচিত্র্য
+various – বিভিন্ন
+vary – পরিবর্তিত হওয়া
+vast – বিশাল
+vegetable – সবজি
+vehicle – যানবাহন
+venue – স্থান
+version – সংস্করণ
+very – খুব
+via – মাধ্যমে
+victim – ভুক্তভোগী
+victory – বিজয়
+video – ভিডিও
+view – দৃশ্য / মতামত
+viewer – দর্শক
+village – গ্রাম
+violence – সহিংসতা
+violent – সহিংস
+virtual – ভার্চুয়াল
+virus – ভাইরাস
+vision – দৃষ্টি / দর্শন
+visit – পরিদর্শন করা
+visitor – দর্শনার্থী
+visual – দৃশ্যমান
+vital – অত্যাবশ্যক
+vitamin – ভিটামিন
+voice – কণ্ঠস্বর
+volume – শব্দের মাত্রা / পরিমাণ
+volunteer – স্বেচ্ছাসেবক
+vote – ভোট দেওয়া
+wagon – গাড়ি (ঘোড়ার টানা)
+wait – অপেক্ষা করা
+waiter – ওয়েটার
+wake – জাগা
+walk – হাঁটা
+wall – দেয়াল
+want – চাওয়া
+warm – উষ্ণ
+warn – সতর্ক করা
+warning – সতর্কবার্তা
+wash – ধোয়া
+washing – ধোয়া
+waste – অপচয়
+watch – দেখা / ঘড়ি
+water – পানি
+wave – ঢেউ
+way – পথ / উপায়
+we – আমরা
+weak – দুর্বল
+weakness – দুর্বলতা
+wealth – সম্পদ
+wealthy – ধনী
+weapon – অস্ত্র
+wear – পরা
+weather – আবহাওয়া
+web – জাল / ওয়েব
+website – ওয়েবসাইট
+wedding – বিয়ে
+Wednesday – বুধবার
+week – সপ্তাহ
+weekend – সাপ্তাহিক ছুটি
+weigh – ওজন করা
+weight – ওজন
+welcome – স্বাগতম
+well – ভালো / কূপ
+west – পশ্চিম
+western – পাশ্চাত্য / পশ্চিমাঞ্চলীয়
+wet – ভেজা
+what – কি
+whatever – যাই হোক
+wheel – চাকা
+when – কখন
+whenever – যখনই
+where – কোথায়
+whereas – যেখানে / কিন্তু
+wherever – যেখানেই
+whether – কিনা
+which – কোনটি
+while – যখন / কিছুক্ষণ
+whisper – ফিসফিস করা
+whole – সম্পূর্ণ
+whom – কাকে
+whose – যার
+why – কেন
+wide – চওড়া
+widely – ব্যাপকভাবে
+wild – বন্য
+wildlife – বন্যপ্রাণী
+will – ইচ্ছা / ভবিষ্যৎ নির্দেশক
+willing – ইচ্ছুক
+wind – বাতাস
+window – জানালা
+wing – ডানা
+wire – তার
+wise – জ্ঞানী
+wish – ইচ্ছা
+with – সাথে
+within – ভেতরে
+without – ছাড়া
+witness – সাক্ষী
+woman – নারী
+wonder – বিস্ময় / ভাবা
+wonderful – চমৎকার
+wood – কাঠ
+wooden – কাঠের
+wool – উল
+word – শব্দ
+work – কাজ
+worker – কর্মী
+working – কর্মরত / কাজ করা
+world – বিশ্ব
+worldwide – বিশ্বব্যাপী
+worried – উদ্বিগ্ন
+worry – দুশ্চিন্তা করা
+worse – আরও খারাপ
+worst – সবচেয়ে খারাপ
+worth – মূল্য
+would – করত / হবে (শর্তমূলক)
+wound – ক্ষত
+wow – বাহ
+wrap – মোড়ানো
+written – লিখিত
+wrong – ভুল
+yard – আঙিনা
+yeah – হ্যাঁ
+yesterday – গতকাল
+yet – এখনও / তবুও
+young – তরুণ
+yourself – নিজে
+youth – যুবক / যৌবন
+zone – অঞ্চল
