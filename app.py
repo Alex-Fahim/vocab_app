@@ -19,6 +19,12 @@ st.markdown("""
         font-size: 24px;
         margin-top: 20px;
     }
+    .button-container {
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+        margin-top: 20px;
+    }
     </style>
 """, unsafe_allow_html=True)
 
@@ -32,29 +38,44 @@ with open("words.txt", "r", encoding="utf-8") as f:
             eng, bn = line.strip().split(",", 1)
             words[eng.strip()] = bn.strip()
 
-# Session state
+# Session state initialization
 if "current_word" not in st.session_state:
     st.session_state.current_word = random.choice(list(words.keys()))
 if "message" not in st.session_state:
     st.session_state.message = ""
+if "user_input" not in st.session_state:
+    st.session_state.user_input = ""
 
 # Show current word
 st.markdown(f"<div class='big-word'>{st.session_state.current_word}</div>", unsafe_allow_html=True)
 
 # Input field
-user_input = st.text_input("Enter Bangla")
+st.text_input("Enter Bangla", key="user_input")
 
-# Button
-if st.button("Check & Next"):
-    correct = words[st.session_state.current_word]
+# Button container
+col1, col2, col3 = st.columns([1,2,1])  # Center alignment
 
-    if user_input.strip() == correct:
-        st.session_state.message = "সঠিক ✅"
-    else:
-        st.session_state.message = f"ভুল ❌ | সঠিক: {correct}"
+with col1:
+    st.write("")  # Spacer
 
-    # Show result
-    st.markdown(f"<div class='result'>{st.session_state.message}</div>", unsafe_allow_html=True)
+with col2:
+    if st.button("Check"):
+        correct = words[st.session_state.current_word]
+        if st.session_state.user_input.strip() == correct:
+            st.session_state.message = "সঠিক ✅"
+        else:
+            st.session_state.message = f"ভুল ❌ | সঠিক: {correct}"
 
-    # Load next word
-    st.session_state.current_word = random.choice(list(words.keys()))
+    if st.button("Next Word"):
+        # Clear input
+        st.session_state.user_input = ""
+        # Load next word
+        st.session_state.current_word = random.choice(list(words.keys()))
+        # Clear previous message
+        st.session_state.message = ""
+
+with col3:
+    st.write("")  # Spacer
+
+# Show result
+st.markdown(f"<div class='result'>{st.session_state.message}</div>", unsafe_allow_html=True)
