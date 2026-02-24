@@ -3,19 +3,18 @@ import random
 
 st.set_page_config(page_title="Vocabulary Practice", page_icon="📝", layout="centered")
 
-# CSS
+# ---------- CSS ----------
 st.markdown("""
 <style>
 body { background-color: black; }
 .big-word { text-align: center; color: white; font-size: 36px; margin-bottom: 20px; }
 .result { text-align: center; font-size: 24px; margin-top: 20px; }
-.button-container { display: flex; justify-content: center; gap: 20px; margin-top: 20px; }
 </style>
 """, unsafe_allow_html=True)
 
 st.markdown("<h1 style='text-align: center; color: white;'>Vocabulary Practice</h1>", unsafe_allow_html=True)
 
-# Load words
+# ---------- Load Words ----------
 words = {}
 with open("words.txt", "r", encoding="utf-8") as f:
     for line in f:
@@ -23,40 +22,39 @@ with open("words.txt", "r", encoding="utf-8") as f:
             eng, bn = line.strip().split(",", 1)
             words[eng.strip()] = bn.strip()
 
-# Session state initialization
+# ---------- Session State ----------
 if "current_word" not in st.session_state:
     st.session_state.current_word = random.choice(list(words.keys()))
 if "message" not in st.session_state:
     st.session_state.message = ""
 
-# --- Show current word ---
+# ---------- Show Word ----------
 st.markdown(f"<div class='big-word'>{st.session_state.current_word}</div>", unsafe_allow_html=True)
 
-# --- Input field ---
-user_input = st.text_input("Enter Bangla", key="user_input")
+# ---------- Form (IMPORTANT PART) ----------
+with st.form("vocab_form", clear_on_submit=False):
 
-# --- Functions ---
-def check_word():
-    correct = words[st.session_state.current_word]
-    if user_input.strip() == correct:
-        st.session_state.message = "সঠিক ✅"
-    else:
-        st.session_state.message = f"ভুল ❌ | সঠিক: {correct}"
+    user_input = st.text_input("Enter Bangla")
 
-def next_word():
-    st.session_state.current_word = random.choice(list(words.keys()))
-    st.session_state.message = ""
-    # Clear input field safely using experimental_rerun
-    st.session_state.user_input = ""
-    st.experimental_rerun()  # Force rerun to reset input
+    col1, col2 = st.columns(2)
 
-# --- Buttons side by side ---
-col1, col2, col3 = st.columns([1,2,1])
-with col2:
-    if st.button("Check"):
-        check_word()
-    if st.button("Next Word"):
-        next_word()
+    with col1:
+        check_btn = st.form_submit_button("Check")
 
-# --- Show result ---
+    with col2:
+        next_btn = st.form_submit_button("Next")
+
+    if check_btn:
+        correct = words[st.session_state.current_word]
+        if user_input.strip() == correct:
+            st.session_state.message = "সঠিক ✅"
+        else:
+            st.session_state.message = f"ভুল ❌ | সঠিক: {correct}"
+
+    if next_btn:
+        st.session_state.current_word = random.choice(list(words.keys()))
+        st.session_state.message = ""
+        st.rerun()   # Clean rerun, no error
+
+# ---------- Show Result ----------
 st.markdown(f"<div class='result'>{st.session_state.message}</div>", unsafe_allow_html=True)
