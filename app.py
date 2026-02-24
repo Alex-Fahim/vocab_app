@@ -32,7 +32,7 @@ if "message" not in st.session_state:
 st.markdown(f"<div class='big-word'>{st.session_state.current_word}</div>", unsafe_allow_html=True)
 
 # ---------- Form (IMPORTANT PART) ----------
-with st.form("vocab_form", clear_on_submit=False):
+with st.form("vocab_form", clear_on_submit=True):
 
     user_input = st.text_input("Enter Bangla")
 
@@ -58,3 +58,4 @@ with st.form("vocab_form", clear_on_submit=False):
 
 # ---------- Show Result ----------
 st.markdown(f"<div class='result'>{st.session_state.message}</div>", unsafe_allow_html=True)
+
